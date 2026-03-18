@@ -3,3 +3,4 @@ debug_db.js
 migrate.js
 testembed.json
 node_modules
+src/db/database.sqlite
